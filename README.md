@@ -53,9 +53,6 @@ pip install -e ".[dev]"
 | 18000   | 2.02        | 36,276.89     |
 
 
-[Genesis] [12:04:00] [INFO] Running at 36,276.89 FPS (2.02 FPS per env, 18000 envs).
-
-
 ### 📁 Notes and Observations
 - Max Env limit to 18000
 
