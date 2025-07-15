@@ -52,6 +52,12 @@ pip install -e ".[dev]"
 | X       | X           | X             |
 | 18000   | 2.02        | 36,276.89     |
 
+## 🚀 Simulation Run Script
+
+This test was executed using:
+
+[parallel_simulation_2.py](/src/parallel_simulation_2.py)
+
 
 ### 📁 Notes and Observations
 - Max Env limit to 18000
