@@ -27,11 +27,11 @@ pip install -e ".[dev]"
 
 ### 🖥️ GPU Info (nvidia-smi -q) (System Management Interface Query)
 
-**Driver Version**:                : 570.86.15
-**CUDA Version**:                  : 12.8
-**Product Name**:                  : NVIDIA GeForce RTX 4090 Laptop GPU
-**Product Brand**:                 : GeForce
-**Product Architecture**:          : Ada Lovelace
+- **Driver Version**:           : 570.86.15
+- **CUDA Version**:             : 12.8
+- **Product Name**:             : NVIDIA GeForce RTX 4090 Laptop GPU
+- **Product Brand**:            : GeForce
+- **Product Architecture**:     : Ada Lovelace
 
 ### 📊 GPU Simulation Performance by Number of Environments 
 
