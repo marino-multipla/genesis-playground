@@ -33,7 +33,7 @@ pip install -e ".[dev]"
 **Product Brand**:                 : GeForce
 **Product Architecture**:          : Ada Lovelace
 
-### 📊 Simulation Performance by Number of Environments
+### 📊 GPU Simulation Performance by Number of Environments 
 
 | # Envs  | FPS per Env | Total FPS     | Memory Used |
 |---------|-------------|---------------|-------------|
@@ -44,6 +44,17 @@ pip install -e ".[dev]"
 | 15000   | 731.29      | 10,969,398.87 | 12274MiB    |
 | 17000   | 676.31      | 11,497,236.73 | 13842MiB    |
 | 18000   | 615.38      | 11,076,852.10 | 14642MiB    |
+
+### 📊 CPU Simulation Performance by Number of Environments 
+
+| # Envs  | FPS per Env | Total FPS     |
+|---------|-------------|---------------|
+| X       | X           | X             |
+| 18000   | 2.02        | 36,276.89     |
+
+
+[Genesis] [12:04:00] [INFO] Running at 36,276.89 FPS (2.02 FPS per env, 18000 envs).
+
 
 ### 📁 Notes and Observations
 - Max Env limit to 18000
